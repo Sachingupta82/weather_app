@@ -28,7 +28,7 @@ class _first_screenState extends State<first_screen> {
     try {
       final data_1 = await http.get(
         Uri.parse(
-            'http://api.openweathermap.org/data/2.5/forecast?q=$location&APPID='  '),
+            'http://api.openweathermap.org/data/2.5/forecast?q=$location&APPID=  '),
       ); //we have to pass the url here in uri.parse
       // print(data_1.body);
       final dataLast = jsonDecode(data_1.body);
