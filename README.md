@@ -14,5 +14,5 @@
 
 <h2>Screenshots of App:</h2>
 
-<img src="screenshot_1.png" alt="Main_Screen">
-<img src="screenshot_2.png" alt="Loading_Screen">
+<img src="Screenshot_1.png" alt="Main_Screen" width="180px" height="380px">
+<img src="Screenshot_2.png" alt="Loading_Screen" width="180px" height="380px">
