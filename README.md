@@ -1,16 +1,18 @@
-# weather_app
 
-A new Flutter project.
+<h1>Weather APP</h1>
 
-## Getting Started
+<h5> This project goal was to fetch some data using weather API and learn how data is fetched and used in mobile apps.</h5>
 
-This project is a starting point for a Flutter application.
+<h3>Future Updates will contain:</h3>
+<ul>
+  <li>Animation screen according to weather.</li>
+  <li>Notification for forecasting related in a Fun way. </li>
+  <li>Top 5 cities with highest temperature in world currently</li>
+  <li>Top 5 cities with lowest temperature in world currently</li>
+  <li>......</li>
+</ul>
 
-A few resources to get you started if this is your first Flutter project:
+<h2>Screenshots of App:</h2>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="screenshot_1.png" alt="Main_Screen">
+<img src="screenshot_2.png" alt="Loading_Screen">
